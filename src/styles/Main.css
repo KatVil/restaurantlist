@@ -1,0 +1,29 @@
+.header {
+    text-align: center;
+    color: rgb(59, 54, 45);
+}
+
+.list {
+    text-align: center;
+    color: rgb(86, 78, 69);
+}
+
+.main {
+    background-color: rgb(232, 232, 232);   
+}
+
+.main_img {
+    width: 100vw;
+}
+
+.picture {
+    width: 150px;
+}
+
+.card-body{
+    width: 200px;
+}
+
+.card_picture {
+    width: 70vw;
+}
